@@ -10,7 +10,7 @@
 
 
 # About me
-I'm an Undergrad Student🎓 [@Vit Vellore] pursuing pursuing Computer Science. I'm a Tech Enthusiast 💻. My ambition is to become a web developer and I am interested in AI ML.
+I'm an Undergrad Student🎓 [@Vit Vellore] pursuing Computer Science. I'm a Tech Enthusiast 💻. My ambition is to become a web developer and I am interested in AI ML.
 
 
 ## A few quick facts
