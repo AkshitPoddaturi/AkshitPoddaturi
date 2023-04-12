@@ -14,8 +14,6 @@ I'm an Undergrad Student🎓 [@Vit Vellore] pursuing pursuing Computer Science. 
 
 
 ## A few quick facts
-👩‍💻 I'm currently working on 
-
 🧠 I'm currently learning Python, C, DSA
 
 👯‍♀️ I'm looking to collaborate on AI ML and WebDev
